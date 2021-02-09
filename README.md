@@ -1,0 +1,1 @@
+# rapid-blazor-query-app
