@@ -15,10 +15,37 @@
 直接講結論, "Blazor Server 取代傳統 Web Forms,EF Core 取代傳統 EF 6"
 
 ## 第一章 從官網的範例走起
+- 取得官網範例代碼
+- 運行範例代碼
+- 體驗App功能
+- 查看代碼
+- 更換數據庫
+- 存取數據庫的方式
+  
 ## 第二章 直接使用本書的開發模式
+- 新建項目調整Nav
+- EF Core Power Tool
+- 下載 NuGet Package
+- 繼承 AppCompBase
+- 運行並調試頁面
+
 ## 第三章 介紹項目主要組成
+- Blazor Base
 ## 第四章 介紹所使用的 NuGet Package
+- Wrapper
+- SearchComp
+- TableComp
+- PagingComp
+- Adapter
+- Filter
+- PageHelper
+
 ## 第五章 擴展方向及範例
+- 規畫篩選的欄位
+- 限定排序的欄位
+- Html Table 的顯示
+- 分頁的顯示
+
 
 
 
