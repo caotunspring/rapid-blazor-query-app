@@ -1,5 +1,7 @@
 # rapid-blazor-query-app 快速建構 Blazor 查詢 APP
 
+### Ref
+- https://paulcunningham.me/writing-technical-books/
 > Blazor Server 取代傳統 Web Forms
 > EF Core 取代傳統 EF 6
 
